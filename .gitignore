@@ -10,3 +10,4 @@
 /msg = "Hello World"
 
 /plots/*.png
+.DS_Store
